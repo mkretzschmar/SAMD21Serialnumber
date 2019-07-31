@@ -2,7 +2,7 @@
     "name": "SAMD21SerialnumberLibrary",
     "frameworks": "Arduino",
     "keywords": "SAMD21, Serialnumber",
-    "description": "Accessing the 128bit unique chip serial number of an SAMD21 chip (e.g. Feather M0)",
+    "description": "Access to the 128 bit unique serial number of a SAMD21 chip (e.g. Feather M0)",
     "authors":
     [
         {
