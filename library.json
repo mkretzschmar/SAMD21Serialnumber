@@ -1,20 +1,20 @@
 {
-"name": "SAMD21SerialnumberLibrary",
-"frameworks": "Arduino",
-"keywords": "SAMD21, Serialnumber",
-"description": "Accessing the 128bit unique chip serial number of SAMD21 (e.g. Feather M0)",
-"authors":
-[
+    "name": "SAMD21SerialnumberLibrary",
+    "frameworks": "Arduino",
+    "keywords": "SAMD21, Serialnumber",
+    "description": "Accessing the 128bit unique chip serial number of SAMD21 (e.g. Feather M0)",
+    "authors":
+    [
+        {
+            "name": "Marek Kretzschmar",
+            "email": "marek@samsol.de",
+            "url": "http://www.samsol.de",
+            "maintainer": true
+        }
+    ],
+    "repository":
     {
-        "name": "Marek Kretzschmar",
-        "email": "marek@samsol.de",
-        "url": "http://www.samsol.de",
-        "maintainer": true
+        "type": "git",
+        "url": "https://github.com/mkretzschmar/SAMD21Serialnumber"
     }
-],
-"repository":
-{
-    "type": "git",
-    "url": "https://github.com/mkretzschmar/Embedded-FeatherM0DeviceID"
-}
 }
