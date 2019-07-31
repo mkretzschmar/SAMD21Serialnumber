@@ -11,4 +11,4 @@ https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/Atmel-42181-SAM-D21_Datas
     Word 1: 0x0080A040
     Word 2: 0x0080A044
     Word 3: 0x0080A048
-    The uniqueness of the serial number is guaranteed only when using all 128 bits.
+The uniqueness of the serial number is guaranteed only when using all 128 bits.
