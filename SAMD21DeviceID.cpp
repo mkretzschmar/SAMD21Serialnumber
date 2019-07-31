@@ -6,6 +6,7 @@ SAMD21::SAMD21() {
 }
 
 void SAMD21::getSerialNumber() {
+  char buf[33];
   volatile uint32_t val1, val2, val3, val4;
   volatile uint32_t *ptr1 = (volatile uint32_t *)0x0080A00C;
   val1 = *ptr1;
