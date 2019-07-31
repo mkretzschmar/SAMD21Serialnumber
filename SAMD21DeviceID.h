@@ -6,7 +6,7 @@
 class SAMD21 {
  public:
    SAMD21(); // initialize without params
-   void getSerialNumber(); // returns the unique DeviceID 
+   void getSerialNumber(char* out); // returns the unique DeviceID 
  private:
 };
 #endif
